@@ -1,1 +1,1 @@
-# RealTimeChatApp Built using React and Frirebas
+# RealTimeChatApp Built using React and Frirebase
